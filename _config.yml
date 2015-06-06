@@ -1,0 +1,10 @@
+name: "Absence is presence with distance"
+description: "Christine Sun Kim and Taeyoon Choi"
+author: "Jxnblk"
+
+# url: "http://localhost:4000"
+url: ""
+
+exclude: [README.md, Rakefile]
+paginate: 16
+permalink: /:title
